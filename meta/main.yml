@@ -1,0 +1,6 @@
+galaxy_info:
+  role_name: demo_ansible_role
+  author: Felix Dreissig
+  description: "Demo role for Renovate discussion #23273"
+  license: Unlicense (Public Domain)
+  min_ansible_version: "2.11"
